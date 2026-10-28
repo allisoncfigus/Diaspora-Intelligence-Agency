@@ -1,0 +1,5 @@
+"Mal-search"
+1. Macro : ["mal", "search"]
+2. Misspelling filter : ["mal", "male", "mail", "male"(sp)]
+3. With indexing, you'd have files like these
+4. Then you could crawl large data and fit to this pattern
